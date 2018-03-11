@@ -1,7 +1,6 @@
 package programs.collections;
 
 import java.util.HashMap;
-import java.util.Map;
 
 class Movie {
 	private String name, actor;
